@@ -16,6 +16,7 @@ public class Cloned {
      */
     public static void main(String[] args) {
         System.out.println("the name of the thrread is");
+        System.out.println("aynalem is here ");
         
     }
     
